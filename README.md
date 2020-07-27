@@ -19,33 +19,4 @@ Follow the links below to learn more about how to create and deploy web applicat
 
 **More:**
 
-To run this application simply type in the following command:
-
-```
-Gocodev
-```
-
-## Folder Structure
-Here is the core folder structure which flutter provides.
-
-```
-flutter-app/
-|- android
-|- build
-|- ios
-|- lib
-|- test
-```
-
-Here is the folder structure we have been using in this project
-
-```
-lib/
-|- constants/
-|- ui/
-|- utils/
-|- widgets/
-|- main.dart
-```
-
 If you liked my work, don’t forget to ⭐ star the repo to show your support.
