@@ -4,18 +4,25 @@ Full Stack Developer - Founder at GoCodev
 
 ## About
 
-I am a Front End developer with industry experience building websites and web applications. I specialize in Web Designing and have professional experience working with HTML 5, CSS3, Bootstrap, JS, PHP, MySQL, and Angular. I also have experience working with Flutter for Android Native App Development, Hosting, and Domain. I have completed many projects Like Android Apps, Website, SEO, Business Software, Hosting/Domain, etc., and then I started working under the name of Develop India Online. 
+I am a Full Stack Developer with industrial experience building websites and web applications.
 
-<p>
-  <img src="https://pbs.twimg.com/media/Dq6yj5QXQAAmLOQ.jpg">
-</p>
+I specialize in Web Designing / Development and have professional experience working with :
+
+-> HTML5 & CSS3
+-> Bootstrap v4 / v5 , Material Design & Tailwind CSS
+-> JavaScript & Ajax
+-> PHP & MySQL
+
+I also have Learning with Flutter for Android App Development.
+
+I have completed many projects Like Web Apps, CRM, Business Software, Chrome App/ Hosting / Domain, etc., and then I started working under the name of Develop India Online.
 
 ## How to Contact Me
 Follow the links below to learn more about how to create and deploy web applications in flutter.
 
 * Facebook: [Follow me](https://www.facebook.com/imayushshrivastava)
 
-* Instagram: [Follow me](https://www.instagram.com/ayushdevelopment)
+* Instagram: [Follow me](https://www.instagram.com/imayushshrivastava)
 
 **More:**
 
