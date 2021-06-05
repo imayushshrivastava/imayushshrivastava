@@ -1,6 +1,6 @@
 # Hi, I'm Ayush Shrivastava
 
-Full Stack Developer - Founder at GoCodev
+Full Stack Developer - Founder at @developindiaonline
 
 ## About
 
