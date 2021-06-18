@@ -5,7 +5,9 @@ Full Stack Developer - Founder at @developindiaonline
 ## How to Contact Me
 Follow the links below to learn more about how to create and deploy web applications in flutter.
 
-* Facebook: [Follow me](https://www.facebook.com/imayushshrivastava)
+* Linkedin: [Follow me](https://www.linkedin.com/in/imayushshrivastava/)
+
+* Company: [Follow me @DIO](https://www.instagram.com/developindiaonline/)
 
 * Instagram: [Follow me](https://www.instagram.com/imayushshrivastava)
 
